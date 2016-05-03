@@ -1,5 +1,5 @@
-# SE-MiniPeojet
-PI computation with BBP algorithm and threads
+# SE-MiniProjet
+PI computation
 
 Documentation: [https://fr.wikipedia.org/wiki/Formule_BBP],
 [http://www.davidhbailey.com/dhbpapers/bbp-alg.pdf], 
